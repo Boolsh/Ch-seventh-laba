@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <FIO>Аборнев Захар Романович</FIO>
+    <Course>1</Course>
+    <Group>9</Group>
+    <Ekzamens>
+      <Ekzamen>
+        <Subject>Мат. Анализ</Subject>
+        <Mark>5</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Лин. Алгебра</Subject>
+        <Mark>4</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Дис. Математика</Subject>
+        <Mark>5</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Языки прогр</Subject>
+        <Mark>4</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Физкультура</Subject>
+        <Mark>5</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Мат. Анализ</Subject>
+        <Mark>2</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Лин. Алгебра</Subject>
+        <Mark>5</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Дис. Математика</Subject>
+        <Mark>5</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Языки прогр</Subject>
+        <Mark>3</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Физкультура</Subject>
+        <Mark>2</Mark>
+      </Ekzamen>
+    </Ekzamens>
+    <EducationForm>Contract</EducationForm>
+  </Student>
+  <Student>
+    <FIO>Ульянов Владимр Ильич</FIO>
+    <Course>1</Course>
+    <Group>91</Group>
+    <Ekzamens>
+      <Ekzamen>
+        <Subject>Мат. Анализ</Subject>
+        <Mark>4</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Лин. Алгебра</Subject>
+        <Mark>4</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Дис. Математика</Subject>
+        <Mark>5</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Языки прогр</Subject>
+        <Mark>4</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Физкультура</Subject>
+        <Mark>5</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Мат. Анализ</Subject>
+        <Mark>2</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Лин. Алгебра</Subject>
+        <Mark>5</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Дис. Математика</Subject>
+        <Mark>5</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Языки прогр</Subject>
+        <Mark>3</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Физкультура</Subject>
+        <Mark>3</Mark>
+      </Ekzamen>
+    </Ekzamens>
+    <EducationForm>Budget</EducationForm>
+  </Student>
+  <Student>
+    <FIO>Пушкин Александр Сергеевич</FIO>
+    <Course>1</Course>
+    <Group>91</Group>
+    <Ekzamens>
+      <Ekzamen>
+        <Subject>Мат. Анализ</Subject>
+        <Mark>3</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Лин. Алгебра</Subject>
+        <Mark>4</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Дис. Математика</Subject>
+        <Mark>5</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Языки прогр</Subject>
+        <Mark>4</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Физкультура</Subject>
+        <Mark>5</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Мат. Анализ</Subject>
+        <Mark>2</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Лин. Алгебра</Subject>
+        <Mark>5</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Дис. Математика</Subject>
+        <Mark>5</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Языки прогр</Subject>
+        <Mark>3</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Физкультура</Subject>
+        <Mark>2</Mark>
+      </Ekzamen>
+    </Ekzamens>
+    <EducationForm>Budget</EducationForm>
+  </Student>
+  <Student>
+    <FIO>Жорж Шарль Дантес</FIO>
+    <Course>2</Course>
+    <Group>91</Group>
+    <Ekzamens>
+      <Ekzamen>
+        <Subject>Мат. Анализ</Subject>
+        <Mark>5</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Лин. Алгебра</Subject>
+        <Mark>4</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Дис. Математика</Subject>
+        <Mark>5</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Языки прогр</Subject>
+        <Mark>4</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Физкультура</Subject>
+        <Mark>5</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Мат. Анализ</Subject>
+        <Mark>2</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Лин. Алгебра</Subject>
+        <Mark>5</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Дис. Математика</Subject>
+        <Mark>5</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Языки прогр</Subject>
+        <Mark>3</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Физкультура</Subject>
+        <Mark>5</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Мат. Анализ</Subject>
+        <Mark>5</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Лин. Алгебра</Subject>
+        <Mark>4</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Дис. Математика</Subject>
+        <Mark>5</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Языки прогр</Subject>
+        <Mark>4</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Физкультура</Subject>
+        <Mark>5</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Мат. Анализ</Subject>
+        <Mark>2</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Лин. Алгебра</Subject>
+        <Mark>5</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Дис. Математика</Subject>
+        <Mark>5</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Языки прогр</Subject>
+        <Mark>3</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Физкультура</Subject>
+        <Mark>5</Mark>
+      </Ekzamen>
+    </Ekzamens>
+    <EducationForm>Contract</EducationForm>
+  </Student>
+  <Student>
+    <FIO>Снуп Дог</FIO>
+    <Course>2</Course>
+    <Group>91</Group>
+    <Ekzamens>
+      <Ekzamen>
+        <Subject>Мат. Анализ</Subject>
+        <Mark>2</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Лин. Алгебра</Subject>
+        <Mark>2</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Дис. Математика</Subject>
+        <Mark>2</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Языки прогр</Subject>
+        <Mark>2</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Физкультура</Subject>
+        <Mark>5</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Мат. Анализ</Subject>
+        <Mark>2</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Лин. Алгебра</Subject>
+        <Mark>2</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Дис. Математика</Subject>
+        <Mark>2</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Языки прогр</Subject>
+        <Mark>2</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Физкультура</Subject>
+        <Mark>5</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Мат. Анализ</Subject>
+        <Mark>2</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Лин. Алгебра</Subject>
+        <Mark>2</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Дис. Математика</Subject>
+        <Mark>2</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Языки прогр</Subject>
+        <Mark>2</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Физкультура</Subject>
+        <Mark>5</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Мат. Анализ</Subject>
+        <Mark>2</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Лин. Алгебра</Subject>
+        <Mark>2</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Дис. Математика</Subject>
+        <Mark>2</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Языки прогр</Subject>
+        <Mark>3</Mark>
+      </Ekzamen>
+      <Ekzamen>
+        <Subject>Физкультура</Subject>
+        <Mark>5</Mark>
+      </Ekzamen>
+    </Ekzamens>
+    <EducationForm>Contract</EducationForm>
+  </Student>
+</ArrayOfStudent>
